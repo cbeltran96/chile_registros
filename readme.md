@@ -55,24 +55,24 @@ Para utilizar el software, sigue estos pasos:
 4. En el caso de los sancionatorios, se creará un archivo JSON en la raiz del proyecto con los datos en el siguiente formato:
     ```json
     [
-    {
-        "numero": "1",
-        "expediente": "A-020-2023",
-        "unidad_fiscalizable": "LOTEO CONJUNTO HABITACIONAL EX FUNDICION",
-        "nombre_razon_social": "SERVICIO REGIONAL DE VIVIENDA Y URBANISMO SERVIU VIII REGION",
-        "categoria": "Vivienda e Inmobiliarios",
-        "region": "Region del Biobio",
-        "estado": "En curso"
-    },
-    {
-        "numero": "2",
-        "expediente": "D-116-2023",
-        "unidad_fiscalizable": "PLANTA PROCESADORA DE RECURSOS HIDROBIOLOGICOS PUERTO DEMAISTRE",
-        "nombre_razon_social": "PROCESADORA DUMESTRE LIMITADA",
-        "categoria": "Pesca y Acuicultura",
-        "region": "Region de Magallanes y la Antartica Chilena",
-        "estado": "En curso"
-    }
+        {
+            "numero": "1",
+            "expediente": "A-020-2023",
+            "unidad_fiscalizable": "LOTEO CONJUNTO HABITACIONAL EX FUNDICION",
+            "nombre_razon_social": "SERVICIO REGIONAL DE VIVIENDA Y URBANISMO SERVIU VIII REGION",
+            "categoria": "Vivienda e Inmobiliarios",
+            "region": "Region del Biobio",
+            "estado": "En curso"
+        },
+        {
+            "numero": "2",
+            "expediente": "D-116-2023",
+            "unidad_fiscalizable": "PLANTA PROCESADORA DE RECURSOS HIDROBIOLOGICOS PUERTO DEMAISTRE",
+            "nombre_razon_social": "PROCESADORA DUMESTRE LIMITADA",
+            "categoria": "Pesca y Acuicultura",
+            "region": "Region de Magallanes y la Antartica Chilena",
+            "estado": "En curso"
+        }
     ]
     ```
 
