@@ -72,7 +72,8 @@ Para utilizar el software, sigue estos pasos:
         "categoria": "Pesca y Acuicultura",
         "region": "Region de Magallanes y la Antartica Chilena",
         "estado": "En curso"
-    }]
+    }
+    ]
     ```
 
 5. Si accedes a la página de administrador en localhost:8000/admin, encontrarás las listas de datos guardados para administrarlos de manera conveniente.
